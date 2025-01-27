@@ -5,25 +5,23 @@ import java.util.Scanner;
 public class App {
 
     /**
-     * TODO: Return the string "Welcome to Java Programming".
+     * Return the string "Welcome to Java Programming".
      *
      * @return The welcome message.
      */
     public String sayWelcome() {
-        // TODO: Return "Welcome to Java Programming"
-        return "";
+        return "Welcome to Java Programming";
     }
 
     /**
-     * TODO: Return the sum of two integers.
+     * Return the sum of two integers.
      *
      * @param a first integer
      * @param b second integer
      * @return the sum of a and b
      */
     public int sum(int a, int b) {
-        // TODO: implement the sum logic
-        return 0;
+        return a+b;
     }
 
     public static void main(String[] args) {
