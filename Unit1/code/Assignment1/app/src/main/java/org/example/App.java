@@ -8,8 +8,8 @@ public class App {
      * @return A greeting message.
      */
     public String sayHello() {
-        // TODO: Implement this method to return "Hello World!"
-        return "";
+        return "Hello World!";
+
     }
 
     public static void main(String[] args) {
