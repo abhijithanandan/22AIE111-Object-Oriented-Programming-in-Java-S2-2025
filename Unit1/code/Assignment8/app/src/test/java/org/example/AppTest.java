@@ -1,7 +1,7 @@
 package org.example;
 
 import org.junit.jupiter.api.Test;
-import org.example.references.App.Person;
+import org.example.App.Person;
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {

@@ -2,9 +2,6 @@ package org.example;
 
 public class App {
 
-    /**
-     * Person class with a 'name' field.
-     */
     public static class Person {
         public String name;
 
@@ -13,19 +10,14 @@ public class App {
         }
     }
 
-    /**
-     * TODO: Attempt to change an integer parameter inside this method
-     * and show that it does NOT change outside the method.
-     */
     public void changePrimitive(int num) {
-        // TODO
+        // This change will NOT affect the original variable outside.
+        num = 999;
     }
 
-    /**
-     * TODO: Change the 'name' field of the 'person' object.
-     */
     public void changeReference(Person person) {
-        // TODO
+        // This modifies the object that person references, so it WILL persist.
+        person.name = "Changed Name";
     }
 
     public static void main(String[] args) {
