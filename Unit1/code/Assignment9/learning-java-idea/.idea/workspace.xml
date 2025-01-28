@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="523a8c5c-6596-4294-8e52-be04830575f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../learning-java-cli/LearningJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-cli/LearningJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/bin/main/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/bin/test/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/kls_database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning-java-idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/app/src/main/java/learning/java/vscode/gradle/LearningJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/bin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/src/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/src/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sFxqM6ZxckjwPQybBbpTZqHX80" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;assignments&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/abhijith/Documents/Job/Amrita/OOPs-Java/Material/Repo-Sample-Solution/Unit1/code/Assignment9/learning-java-idea/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="523a8c5c-6596-4294-8e52-be04830575f2" name="Changes" comment="" />
+      <created>1738065317548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738065317548</updated>
+      <workItem from="1738065319067" duration="234000" />
+      <workItem from="1738065824757" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6317ab49-87c6-48dc-b7d2-ff15d61f54a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../learning-java-cli/LearningJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-cli/LearningJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/bin/main/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/bin/test/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/app/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/kls_database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-gradle/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-idea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-idea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-idea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-idea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-idea/learning-java-idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-idea/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/app/src/main/java/learning/java/vscode/gradle/LearningJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode-gradle/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/bin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/src/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning-java-vscode/src/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="learning-java-idea-gradle" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2sFyxPbiIgm12KpnezwifZoQY2X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LearningJava.executor": "Debug",
+    "Gradle.learning-java-idea-gradle [:org.example.LearningJava.main()].executor": "Run",
+    "Gradle.learning-java-idea-gradle [build].executor": "Run",
+    "Gradle.learning-java-idea-gradle [test].executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "assignments",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/abhijith/Documents/Job/Amrita/OOPs-Java/Material/Repo-Sample-Solution/Unit1/code/Assignment9/learning-java-idea-gradle/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="learning-java-idea-gradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="learning-java-idea-gradle [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.learning-java-idea-gradle [test]" />
+        <item itemvalue="Gradle.learning-java-idea-gradle [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6317ab49-87c6-48dc-b7d2-ff15d61f54a5" name="Changes" comment="" />
+      <created>1738065866866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738065866866</updated>
+      <workItem from="1738065868529" duration="1029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
