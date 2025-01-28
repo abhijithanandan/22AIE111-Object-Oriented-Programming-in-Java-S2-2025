@@ -2,41 +2,26 @@ package org.example;
 
 public class App {
 
-    // TODO: Declare instance variables for length and width
-    // e.g. private int length;
-    //      private int width;
+    private int length;
+    private int width;
 
-    /**
-     * TODO: Create a constructor that accepts length and width and assigns
-     * them to the instance variables.
-     */
-    // public App(int length, int width) {
-    //     // TODO
-    // }
-
-    /**
-     * TODO: Return the area of the rectangle (length * width).
-     *
-     * @return area of the rectangle
-     */
-    public int getArea() {
-        // TODO
-        return 0;
+    public App(int length, int width) {
+        this.length = length;
+        this.width = width;
     }
 
-    /**
-     * TODO: Return the perimeter of the rectangle (2*(length+width)).
-     *
-     * @return perimeter of the rectangle
-     */
+    public int getArea() {
+        return length * width;
+    }
+
     public int getPerimeter() {
-        // TODO
-        return 0;
+        return 2 * (length + width);
     }
 
     public static void main(String[] args) {
-        // TODO: Create an instance of App (rectangle) with some length & width
-        // Print the area and perimeter
+        App rectangle = new App(5, 3);
+        System.out.println("Area: " + rectangle.getArea());         // 15
+        System.out.println("Perimeter: " + rectangle.getPerimeter()); // 16
     }
 }
 
